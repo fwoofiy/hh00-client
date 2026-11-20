@@ -1,0 +1,15 @@
+{
+  "modules": {
+    "Sprint": {
+      "enabled": false,
+      "key": 0,
+      "settings": {}
+    },
+    "Hud": {
+      "enabled": false,
+      "key": 0,
+      "settings": {}
+    }
+  },
+  "prefix": "."
+}
